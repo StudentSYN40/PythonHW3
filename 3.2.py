@@ -1,0 +1,15 @@
+print("Введите по порядку этапы развития человека")
+# Homo habilis => Homo rudolfensis => Homo erectus => Homo georgicus => Homo ergaster => Homo antecessor => Homo cepranensis
+# => Homo heidelbergensis => Homo rhodesiensis => Homo neanderthalensis => Homo sapiens sapiens
+a1 = input("1 этап: ")
+a2 = input("2 этап: ")
+a3 = input("3 этап: ")
+a4 = input("4 этап: ")
+a5 = input("5 этап: ")
+a6 = input("6 этап: ")
+a7 = input("7 этап: ")
+a8 = input("8 этап: ")
+a9 = input("9 этап: ")
+a10 = input("10 этап: ")
+a11 = input("11 этап: ")
+print(a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11 ,sep=' => ')
